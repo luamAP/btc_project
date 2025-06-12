@@ -1,0 +1,6 @@
+Flask==2.3.3
+yfinance==0.2.18
+pandas
+requests
+numpy
+python-dateutil
