@@ -5,6 +5,8 @@
 # Ignore all files with the specified extension.
 # Scope is all repo folders.
 *.json
+*.db
+*.log
 
 # Add an exception so as to not ignore a file with the specified name.
 # Scope is all repo folders.
@@ -21,4 +23,5 @@
 # Ignore all files in the 'logs' subfolder.
 /logs/
 
-.btc_project/
+/.btc_project/
+__pycache__/

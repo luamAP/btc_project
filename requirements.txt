@@ -1,6 +1,8 @@
-Flask==2.3.3
-yfinance==0.2.18
+Flask
+yfinance
 pandas
 requests
+beautifulsoup4
+schedule
 numpy
 python-dateutil
